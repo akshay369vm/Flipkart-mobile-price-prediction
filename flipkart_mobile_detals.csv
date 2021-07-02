@@ -1,0 +1,711 @@
+,Name,RAM,ROM,Extended_memory,Battery,Processor,Price
+0,POCO M3,6,64,512,6000,Qualcomm Snapdragon 662 Processor,10999
+1,REDMI 9 Power,4,64,0,6000,Qualcomm Snapdragon 662 Processor,10499
+2,POCO M3,6,64,512,6000,Qualcomm Snapdragon 662 Processor,10999
+3,SAMSUNG Galaxy F41,6,128,512,6000,Exynos 9611 Processor,14499
+4,POCO M3,6,128,512,6000,Qualcomm Snapdragon 662 Processor,11999
+5,realme 8 5G,4,64,1,5000,MediaTek Dimensity 700 MT6833 Processor,13999
+6,realme 8 5G,8,128,1,5000,MediaTek Dimensity 700 MT6833 Processor,16999
+7,realme C25,4,128,256,6000,MediaTek Helio G70 Processor,10499
+8,realme C25,4,128,256,6000,MediaTek Helio G70 Processor,10499
+9,REDMI 9 Power,4,64,0,6000,Qualcomm Snapdragon 662 Processor,10499
+10,POCO M3,6,128,512,6000,Qualcomm Snapdragon 662 Processor,11999
+11,Infinix Hot 10,6,128,256,5200,MediaTek Helio G70 Processor,10999
+12,POCO X3 Pro,6,128,1,5160,Qualcomm Snapdragon 860 Processor,18999
+13,REDMI Note 9,4,64,512,5020,MediaTek Helio G85 Processor,10999
+14,REDMI 9 Power,6,128,0,6000,Qualcomm Snapdragon 662 Processor,12999
+15,REDMI 9 Power,4,64,0,6000,Qualcomm Snapdragon 662 Processor,10499
+16,POCO M3,6,64,512,6000,Qualcomm Snapdragon 662 Processor,10999
+17,realme 8 5G,4,128,1,5000,MediaTek Dimensity 700 MT6833 Processor,14999
+18,realme 8 5G,4,128,1,5000,MediaTek Dimensity 700 MT6833 Processor,14999
+19,realme 8 5G,8,128,1,5000,MediaTek Dimensity 700 MT6833 Processor,16999
+20,realme 8 5G,4,64,1,5000,MediaTek Dimensity 700 MT6833 Processor,13999
+21,POCO X3,6,64,512,6000,Qualcomm Snapdragon 732G Processor,14999
+22,SAMSUNG Galaxy F12,4,128,512,6000,Exynos 850 Processor,10999
+23,OPPO A53s 5G,6,128,1,5000,MediaTek Dimensity 700 Processor,14990
+24,OPPO A53s 5G,6,128,1,5000,MediaTek Dimensity 700 Processor,14990
+25,realme 8,8,128,256,5000,MediaTek Helio G95 Processor,15999
+26,realme 8,6,128,256,5000,MediaTek Helio G95 Processor,14999
+27,realme 8,6,128,256,5000,MediaTek Helio G95 Processor,14999
+28,realme 8,4,128,256,5000,MediaTek Helio G95 Processor,13999
+29,realme Narzo 30 Pro 5G,8,128,256,5000,MediaTek Dimensity 800U Processor,17999
+30,realme Narzo 30 Pro 5G,6,64,256,5000,MediaTek Dimensity 800U Processor,14999
+31,realme Narzo 30 Pro 5G,6,64,256,5000,MediaTek Dimensity 800U Processor,14999
+32,POCO M3,6,128,512,6000,Qualcomm Snapdragon 662 Processor,11999
+33,REDMI Note 9,4,64,512,5020,MediaTek Helio G85 Processor,12975
+34,SAMSUNG Galaxy F12,4,128,512,6000,Exynos 850 Processor,10999
+35,POCO X3,6,64,512,6000,Qualcomm Snapdragon 732G Processor,14999
+36,REDMI Note 9,4,64,512,5020,MediaTek Helio G85 Processor,10999
+37,realme C25s,4,128,256,6000,MediaTek Helio G85 Processor,10999
+38,realme 8 Pro,8,128,256,4500,Qualcomm Snapdragon 720G Processor,19999
+39,REDMI Note 10,4,64,512,5000,Qualcomm Snapdragon 678 Processor,13487
+40,SAMSUNG Galaxy M31,6,128,512,6000,Samsung Exynos 9 Octa 9611 Processor,16487
+41,POCO M2,6,64,512,5000,MediaTek Helio G80 Processor,10499
+42,OPPO A53,6,128,256,5000,Qualcomm Snapdragon 460 Processor,12990
+43,OPPO A53,4,64,256,5000,Qualcomm Snapdragon 460 Processor,15990
+44,Infinix Hot 10S,6,64,256,6000,MediaTek Helio G85 Processor,10999
+45,OPPO A53s 5G,8,128,1,5000,MediaTek Dimensity 700 Processor,16990
+46,realme 8,8,128,256,5000,MediaTek Helio G95 Processor,15999
+47,realme 8,4,128,256,5000,MediaTek Helio G95 Processor,13999
+48,SAMSUNG Galaxy M42 5G,6,128,1,5000,Qualcomm Snapdragon 750G octa core Processor,22990
+49,POCO X3 Pro,8,128,1,5160,Qualcomm Snapdragon 860 Processor,20999
+50,OPPO A53,4,64,256,5000,Qualcomm Snapdragon 460 Processor,13990
+51,MOTOROLA G60,6,128,0,6000,Qualcomm Snapdragon 732G Processor,17999
+52,MOTOROLA G30,4,64,0,5000,Snapdragon 662 Processor,10999
+53,ViVO Y20G,4,64,1,5000,MediaTek Helio G80 Processor,12990
+54,MOTOROLA G40 Fusion,6,128,0,6000,Qualcomm Snapdragon 732G Processor,16499
+55,REDMI 9 Power,4,128,0,6000,Qualcomm Snapdragon 662 Processor,11999
+56,SAMSUNG Galaxy F62,8,128,1,7000,Exynos 9825 Processor,25999
+57,ViVO Y30,4,128,256,5000,MediaTek Helio P35 Processor,13990
+58,ViVO Y20G,6,128,1,5000,MediaTek Helio G80 Processor,14990
+59,ViVO Y20G,4,64,1,5000,MediaTek Helio G80 Processor,12990
+60,realme C25s,4,128,256,6000,MediaTek Helio G85 Processor,10999
+61,realme X7 5G,8,128,0,4310,MediaTek Dimensity 800U Processor,19999
+62,realme X7 5G,6,128,0,4310,MediaTek Dimensity 800U Processor,17999
+63,realme 8 Pro,8,128,256,4500,Qualcomm Snapdragon 720G Processor,19999
+64,realme 8 Pro,6,128,256,4500,Qualcomm Snapdragon 720G Processor,17999
+65,realme 8 Pro,6,128,256,4500,Qualcomm Snapdragon 720G Processor,17999
+66,realme C25s,4,128,256,6000,MediaTek Helio G85 Processor,10999
+67,OPPO A53,6,128,256,5000,Qualcomm Snapdragon 460 Processor,12990
+68,OPPO A31,4,64,256,4230,MediaTek Helio P35 Octa Core Processor,12483
+69,OPPO A31,6,128,256,4230,MediaTek Helio P35 Octa Core Processor,12900
+70,OPPO A31,4,64,256,4230,MediaTek Helio P35 Octa Core Processor,11163
+71,Infinix Hot 10S,6,64,256,6000,MediaTek Helio G85 Processor,10999
+72,POCO X3,6,128,512,6000,Qualcomm Snapdragon 732G Processor,16999
+73,REDMI 9i,4,128,512,5000,MediaTek Helio G25 Processor,10000
+74,ViVO Y51A,8,128,1,5000,Qualcomm Snapdragon 662 Processor,17990
+75,ViVO Y51A,8,128,1,5000,Qualcomm Snapdragon 662 Processor,17990
+76,Redmi 9,4,128,0,5000,MediaTek Helio G35 Processor,10998
+77,REDMI Note 9,4,128,512,5020,MediaTek Helio G85 Processor,12999
+78,POCO M2 Pro,6,128,512,5000,Qualcomm Snapdragon 720G Processor,15999
+79,POCO X3 Pro,6,128,1,5160,Qualcomm Snapdragon 860 Processor,18999
+80,MOTOROLA G30,4,64,0,5000,Snapdragon 662 Processor,10999
+81,REDMI 9 Power,6,128,0,6000,Qualcomm Snapdragon 662 Processor,12999
+82,REDMI 9 Power,4,128,0,6000,Qualcomm Snapdragon 662 Processor,11999
+83,realme X7 5G,8,128,0,4310,MediaTek Dimensity 800U Processor,19999
+84,realme 7i,4,128,256,5000,Qualcomm Snapdragon 662 Processor,14999
+85,REDMI 9 Power,6,128,0,6000,Qualcomm Snapdragon 662 Processor,12999
+86,SAMSUNG Galaxy M31,6,128,512,6000,Samsung Exynos 9 Octa 9611 Processor,16487
+87,ViVO Y31,6,128,1,5000,Qualcomm Snapdragon 662 Processor,16490
+88,ViVO Y31,6,128,1,5000,Qualcomm Snapdragon 662 Processor,16490
+89,SAMSUNG Galaxy F62,8,128,1,7000,Exynos 9825 Processor,25999
+90,realme X7 5G,6,128,0,4310,MediaTek Dimensity 800U Processor,17999
+91,REDMI Note 10,6,128,512,5000,Qualcomm Snapdragon 678 Processor,16990
+92,Infinix Hot 10S,6,64,256,6000,MediaTek Helio G85 Processor,10999
+93,POCO X3,6,128,512,6000,Qualcomm Snapdragon 732G Processor,16999
+94,OPPO A53s 5G,8,128,1,5000,MediaTek Dimensity 700 Processor,16990
+95,POCO M2 Pro,6,64,512,5000,Qualcomm Snapdragon 720G Processor,13999
+96,POCO M2 Pro,4,64,512,5000,Qualcomm Snapdragon 720G Processor,12999
+97,realme C25,4,64,256,6000,MediaTek Helio G70 Processor,10690
+98,realme 7 Pro,8,128,256,4500,Qualcomm Snapdragon 720G Processor,17999
+99,REDMI 9 Power,4,128,0,6000,Qualcomm Snapdragon 662 Processor,11999
+100,POCO X3 Pro,8,128,1,5160,Qualcomm Snapdragon 860 Processor,20999
+101,SAMSUNG Galaxy M31,6,128,512,6000,Samsung Exynos 9 Octa 9611 Processor,16999
+102,OPPO A54,4,64,256,5000,MediaTek Helio P35 Processor,13490
+103,REDMI 9 Prime,4,64,512,5020,MediaTek Helio G80 Processor,10499
+104,SAMSUNG Galaxy F41,6,128,512,6000,Exynos 9611 Processor,14499
+105,POCO M2,6,128,512,5000,MediaTek Helio G80 Processor,11499
+106,OPPO A54,4,128,256,5000,MediaTek Helio P35 Processor,14490
+107,POCO M2 Pro,6,64,512,5000,Qualcomm Snapdragon 720G Processor,13999
+108,OPPO F17 Pro,8,128,256,4015,MediaTek Helio P95 Processor,17990
+109,OPPO F17 Pro,8,128,256,4015,MediaTek Helio P95 Processor,17990
+110,OPPO F17 Pro,8,128,256,4015,MediaTek Helio P95 Processor,17990
+111,realme X7 Max,8,128,0,4500,MediaTek Dimensity 1200 Processor,26999
+112,SAMSUNG Galaxy F12,4,128,512,6000,Exynos 850 Processor,10999
+113,SAMSUNG Galaxy A31,6,128,512,5000,MediaTek MT6768 Octa Core Processor,16999
+114,OPPO A54,4,128,256,5000,MediaTek Helio P35 Processor,14490
+115,realme 7 Pro,6,128,256,4500,Qualcomm Snapdragon 720G Processor,15999
+116,realme 7 Pro,8,128,256,4500,Qualcomm Snapdragon 720G Processor,17999
+117,realme 7 Pro,8,128,256,4500,Qualcomm Snapdragon 720G Processor,17999
+118,SAMSUNG Galaxy F62,8,128,1,7000,Exynos 9825 Processor,25999
+119,OPPO F19,6,128,256,5000,Qualcomm Snapdragon 662 Processor,18990
+120,realme 7i,4,128,256,5000,Qualcomm Snapdragon 662 Processor,14999
+121,MOTOROLA G60,6,128,0,6000,Qualcomm Snapdragon 732G Processor,17999
+122,realme 7,6,64,256,5000,MediaTek Helio G95 Processor,14999
+123,ViVO Y30,6,128,256,5000,MediaTek Helio P35 Processor,16990
+124,Micromax IN 1,6,128,256,5000,MediaTek Helio G80 Processor,11499
+125,Micromax IN 1,6,128,256,5000,MediaTek Helio G80 Processor,11499
+126,POCO M2 Pro,6,64,512,5000,Qualcomm Snapdragon 720G Processor,13999
+127,POCO M2 Pro,6,128,512,5000,Qualcomm Snapdragon 720G Processor,15999
+128,Micromax IN 1,6,128,256,5000,MediaTek Helio G80 Processor,11499
+129,POCO M2 Pro,6,128,512,5000,Qualcomm Snapdragon 720G Processor,15999
+130,ViVO Y20A,3,64,256,5000,Qualcomm Snapdragon 439 Processor,12099
+131,realme 7,6,64,256,5000,MediaTek Helio G95 Processor,14999
+132,OPPO F19 Pro,8,256,256,4310,MediaTek Helio P95 MT6779V Processor,23490
+133,realme Narzo 20 Pro,6,64,256,4500,MediaTek Helio G95 Processor,14999
+134,realme Narzo 20 Pro,6,64,256,4500,MediaTek Helio G95 Processor,14999
+135,realme 7 Pro,6,128,256,4500,Qualcomm Snapdragon 720G Processor,17999
+136,REDMI Note 10,4,64,512,5000,Qualcomm Snapdragon 678 Processor,13366
+137,SAMSUNG Galaxy F41,6,128,512,6000,Exynos 9611 Processor,14499
+138,MOTOROLA G40 Fusion,4,64,0,6000,Qualcomm Snapdragon 732G Processor,14499
+139,POCO M2 Pro,6,128,512,5000,Qualcomm Snapdragon 720G Processor,15999
+140,MOTOROLA G9 Power,4,64,512,6000,Qualcomm Snapdragon 662 Processor,11999
+141,POCO X3,8,128,512,6000,Qualcomm Snapdragon 732G Processor,18999
+142,OPPO A54,4,64,256,5000,MediaTek Helio P35 Processor,13490
+143,OPPO A54,4,64,256,5000,MediaTek Helio P35 Processor,13490
+144,OPPO A31,6,128,256,4230,MediaTek Helio P35 Octa Core Processor,12690
+145,SAMSUNG Galaxy M31,6,64,512,6000,Samsung Exynos 9 Octa 9611 Processor,16199
+146,SAMSUNG Galaxy M11,4,64,512,5000,Qualcomm Snapdragon SDM450F01 Octa Core Processor,10088
+147,SAMSUNG Galaxy M42 5G,6,128,1,5000,Qualcomm Snapdragon 750G octa core Processor,22990
+148,realme 3i,4,64,256,4230,MediaTek Helio P60 Octa Core 20 GHz Processor,10499
+149,Tecno POVA,4,64,256,6000,MediaTek Helio G80 Processor,10499
+150,SAMSUNG Galaxy M31,6,128,512,6000,Samsung Exynos 9 Octa 9611 Processor,16999
+151,ViVO V21 5G,8,256,0,4000,MediaTek Dimensity 800U Processor,32990
+152,SAMSUNG Galaxy M31,6,64,512,6000,Samsung Exynos 9 Octa 9611 Processor,16145
+153,REDMI 9 Power,4,128,0,6000,Qualcomm Snapdragon 662 Processor,11999
+154,REDMI Note 10,6,128,512,5000,Qualcomm Snapdragon 678 Processor,16389
+155,SAMSUNG Galaxy M21,4,64,512,6000, Exynos 9611Octa Core processor Processor,13545
+156,realme 7,8,128,256,5000,MediaTek Helio G95 Processor,17999
+157,realme 7,8,128,256,5000,MediaTek Helio G95 Processor,17999
+158,REDMI Note 9,6,128,512,5020,MediaTek Helio G85 Processor,13999
+159,Mi 10i,8,128,0,4820,Qualcomm Snapdragon 750G Processor,25217
+160,ViVO V21 5G,8,256,0,4000,MediaTek Dimensity 800U Processor,32990
+161,ViVO V21 5G,8,128,0,4000,MediaTek Dimensity 800U Processor,29990
+162,ViVO V21 5G,8,128,0,4000,MediaTek Dimensity 800U Processor,29990
+163,ViVO V21 5G,8,128,0,4000,MediaTek Dimensity 800U Processor,29990
+164,OPPO F19 Pro,8,128,256,4310,MediaTek Helio P95 MT6779V Processor,23990
+165,OPPO F19 Pro,8,128,256,4310,MediaTek Helio P95 MT6779V Processor,21490
+166,REDMI Note 10 Pro Max,6,128,512,5020,Qualcomm Snapdragon 732G Processor,21495
+167,realme Narzo 20 Pro,8,128,256,4500,MediaTek Helio G95 Processor,16999
+168,ViVO Y20i,3,64,256,5000,Qualcomm Snapdragon 460 Processor,11490
+169,REDMI Note 10 Pro,6,64,512,5020,Qualcomm Snapdragon 732G Processor,17888
+170,MOTOROLA G40 Fusion,6,128,0,6000,Qualcomm Snapdragon 732G Processor,16499
+171,MOTOROLA G40 Fusion,6,128,0,6000,Qualcomm Snapdragon 732G Processor,16499
+172,ViVO Z1Pro,6,128,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,17990
+173,Infinix Zero 8i,8,128,256,4500,MediaTek Helio G90T Processor,14999
+174,Infinix Zero 8i,8,128,256,4500,MediaTek Helio G90T Processor,14999
+175,REDMI 9 Power,6,128,0,6000,Qualcomm Snapdragon 662 Processor,12999
+176,OPPO F19 Pro+ 5G,8,128,256,4310,MediaTek Dimensity 800U Processor,25990
+177,SAMSUNG Galaxy A12,4,64,1,5000,Mediatek Helio P35 MT6765 Processor,12999
+178,realme X7 Max,12,256,0,4500,MediaTek Dimensity 1200 Processor,29999
+179,SAMSUNG Galaxy M21,4,64,512,6000, Exynos 9611Octa Core processor Processor,14199
+180,ViVO Y73,8,128,0,4000,MediaTek Helio G95 Processor,20990
+181,REDMI Note 9,4,128,512,5020,MediaTek Helio G85 Processor,13299
+182,Redmi 9,4,64,0,5000,MediaTek Helio G35 Processor,10999
+183,SAMSUNG Galaxy A51,8,128,512,4000,Exynos 9611 Processor,22499
+184,SAMSUNG Galaxy A31,6,128,512,5000,MediaTek MT6768 Octa Core Processor,16999
+185,REDMI Note 9,4,64,512,5020,MediaTek Helio G85 Processor,14600
+186,POCO M2 Pro,6,64,512,5000,Qualcomm Snapdragon 720G Processor,13999
+187,MOTOROLA G40 Fusion,4,64,0,6000,Qualcomm Snapdragon 732G Processor,14499
+188,REDMI Note 10S,6,128,0,5000,MediaTek Helio G95 Processor,16928
+189,REDMI Note 10S,6,128,0,5000,MediaTek Helio G95 Processor,17690
+190,POCO X3,8,128,512,6000,Qualcomm Snapdragon 732G Processor,18999
+191,SAMSUNG Galaxy M11,3,32,512,5000,Qualcomm Snapdragon SDM450F01 Octa Core Processor,10339
+192,SAMSUNG Galaxy F02s,3,32,1,5000,Qualcomm Snapdragon 450 SDM450F01 Processor,10499
+193,realme X7 Max,8,128,0,4500,MediaTek Dimensity 1200 Processor,26999
+194,realme X3 SuperZoom,12,256,0,4200,Qualcomm Snapdragon 855 Processor,26999
+195,realme X3 SuperZoom,8,256,0,4200,Qualcomm Snapdragon 855 Processor,23999
+196,REDMI Note 10S,6,64,0,5000,MediaTek Helio G95 Processor,15945
+197,ViVO Y73,8,128,0,4000,MediaTek Helio G95 Processor,20990
+198,SAMSUNG Galaxy M31,8,128,512,6000,Samsung Exynos 9 Octa 9611 Processor,18990
+199,Redmi 8,4,64,512,5000,Qualcomm Snapdragon 439 Processor,10275
+200,SAMSUNG Galaxy M21,4,64,512,6000, Exynos 9611Octa Core processor Processor,13744
+201,SAMSUNG Galaxy F62,6,128,1,7000,Exynos 9825 Processor,23999
+202,ViVO Z1Pro,6,128,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,17990
+203,Mi 10i,6,128,0,4820,Qualcomm Snapdragon 750G Processor,22899
+204,realme X7 Max,12,256,0,4500,MediaTek Dimensity 1200 Processor,29999
+205,realme X7 Max,8,128,0,4500,MediaTek Dimensity 1200 Processor,26999
+206,REDMI 9 Prime,4,64,512,5020,MediaTek Helio G80 Processor,10787
+207,REDMI Note 10 Pro,6,64,512,5020,Qualcomm Snapdragon 732G Processor,17990
+208,ASUS ROG Phone 5,8,128,0,6000,Qualcomm Snapdragon 888 SM8350 Processor,49999
+209,OPPO A54,6,128,256,5000,MediaTek Helio P35 Processor,15990
+210,OPPO A54,6,128,256,5000,MediaTek Helio P35 Processor,15990
+211,SAMSUNG Galaxy A51,8,128,512,4000,Exynos 9611 Processor,22499
+212,realme 3i,4,64,256,4230,MediaTek Helio P60 Octa Core 20 GHz Processor,10499
+213,realme X3 SuperZoom,12,256,0,4200,Qualcomm Snapdragon 855 Processor,26999
+214,realme X3 SuperZoom,8,256,0,4200,Qualcomm Snapdragon 855 Processor,23999
+215,REDMI Note 9,4,64,512,5020,MediaTek Helio G85 Processor,12999
+216,realme 5 Pro,8,128,256,4035,Qualcomm Snapdragon SDM712 Octa Core 23 GHz Processor,16999
+217,Redmi 8,4,64,512,5000,Qualcomm Snapdragon 439 Processor,10999
+218,POCO M3 Pro 5G,4,64,1,5000,MediaTek Dimensity 700 Processor,13499
+219,OPPO Reno5 Pro 5G,8,128,0,4350,MediaTek Dimensity 1000 MT6889 Processor,35990
+220,OPPO Reno5 Pro 5G,8,128,0,4350,MediaTek Dimensity 1000 MT6889 Processor,35990
+221,Redmi Note 9 Pro,4,64,512,5020,Qualcomm Snapdragon 720G Processor,14450
+222,OPPO F19,6,128,256,5000,Qualcomm Snapdragon 662 Processor,18990
+223,OPPO F19,6,128,256,5000,Qualcomm Snapdragon 662 Processor,18990
+224,REDMI Note 10S,6,128,0,5000,MediaTek Helio G95 Processor,16745
+225,POCO M3 Pro 5G,4,64,1,5000,MediaTek Dimensity 700 Processor,13499
+226,Redmi 8,4,64,512,5000,Qualcomm Snapdragon 439 Processor,10999
+227,SAMSUNG M02s,4,64,0,5000,Qualcomm Snapdragon 450 Processor,10199
+228,ViVO V20 SE,8,128,1,4100,Qualcomm Snapdragon 665 Processor,19990
+229,OPPO F19,6,128,256,5000,Qualcomm Snapdragon 662 Processor,18990
+230,OPPO F19,6,128,256,5000,Qualcomm Snapdragon 662 Processor,18990
+231,REDMI Note 10S,6,128,0,5000,MediaTek Helio G95 Processor,16745
+232,ViVO X60 Pro,12,256,0,4200,Qualcomm Snapdragon 870 Processor,49990
+233,OPPO F17,6,128,0,4015,Qualcomm Snapdragon 662 Processor,16990
+234,SAMSUNG M02s,4,64,0,5000,Qualcomm Snapdragon 450 Processor,10390
+235,OPPO A5s,4,64,256,4230,MediaTek Helio P35 Processor,10990
+236,SAMSUNG Galaxy A12,4,64,1,5000,Mediatek Helio P35 MT6765 Processor,12999
+237,ViVO X60 Pro,12,256,0,4200,Qualcomm Snapdragon 870 Processor,49990
+238,realme X7 Pro 5G,8,128,0,4500,MediaTek Dimensity 1000 Plus Processor,26999
+239,realme X7 Pro 5G,8,128,0,4500,MediaTek Dimensity 1000 Plus Processor,26999
+240,REDMI Note 10 Pro Max,6,128,512,5020,Qualcomm Snapdragon 732G Processor,21032
+241,SAMSUNG Galaxy A12,4,128,1,5000,Mediatek Helio P35 MT6765 Processor,13999
+242,SAMSUNG Galaxy A51,6,128,512,4000,Exynos 9611 Processor,20999
+243,SAMSUNG Galaxy A12,4,128,1,5000,Mediatek Helio P35 MT6765 Processor,13999
+244,Tecno POVA,6,128,256,6000,MediaTek Helio G80 Processor,13489
+245,ViVO Y20,4,64,256,5000,Qualcomm Snapdragon 460 Processor,12990
+246,REDMI Note 9,6,128,512,5020,MediaTek Helio G85 Processor,13999
+247,Nokia 3.4,4,64,512,4000,Qualcomm Snapdragon 460 Processor,10999
+248,OPPO A15,2,32,256,4230,MediaTek Helio P35 MT6765 Processor,10990
+249,SAMSUNG Galaxy A21s,6,64,512,5000,Exynos 850 Octa Core Processor,19999
+250,Mi 10i,8,128,0,4820,Qualcomm Snapdragon 750G Processor,25259
+251,REDMI Note 9 Pro Max,6,64,512,5020,Qualcomm Snapdragon 720G Processor,17999
+252,OPPO F17,6,128,0,4015,Qualcomm Snapdragon 662 Processor,16990
+253,OPPO F17,6,128,0,4015,Qualcomm Snapdragon 662 Processor,16990
+254,REDMI Note 10 Pro,6,128,512,5020,Qualcomm Snapdragon 732G Processor,19212
+255,Redmi 8,4,64,512,5000,Qualcomm Snapdragon 439 Processor,10990
+256,SAMSUNG Galaxy A51,6,128,512,4000,Exynos 9611 Processor,20999
+257,Redmi K20,6,64,0,4000,Qualcomm Snapdragon 730 Processor,22999
+258,SAMSUNG Galaxy M11,3,32,512,5000,Qualcomm Snapdragon SDM450F01 Octa Core Processor,10085
+259,Infinix Note 10,4,64,256,5000,MediaTek Helio G85 Processor,10999
+260,Infinix Note 10,4,64,256,5000,MediaTek Helio G85 Processor,10999
+261,SAMSUNG Galaxy A21s,6,64,512,5000,Exynos 850 Octa Core Processor,19999
+262,REDMI Note 9 Pro Max,6,64,512,5020,Qualcomm Snapdragon 720G Processor,17999
+263,Mi 10i,8,128,0,4820,Qualcomm Snapdragon 750G Processor,25259
+264,OPPO F17,6,128,0,4015,Qualcomm Snapdragon 662 Processor,16990
+265,OPPO F17,6,128,0,4015,Qualcomm Snapdragon 662 Processor,16990
+266,REDMI Note 10 Pro,6,128,512,5020,Qualcomm Snapdragon 732G Processor,19212
+267,Redmi 8,4,64,512,5000,Qualcomm Snapdragon 439 Processor,10990
+268,SAMSUNG Galaxy A51,6,128,512,4000,Exynos 9611 Processor,20999
+269,Redmi K20,6,64,0,4000,Qualcomm Snapdragon 730 Processor,22999
+270,REDMI Note 8 Pro,6,64,512,4500,MediaTek Helio G90T Processor,16999
+271,SAMSUNG Galaxy M11,3,32,512,5000,Qualcomm Snapdragon SDM450F01 Octa Core Processor,10085
+272,Infinix Note 10,4,64,256,5000,MediaTek Helio G85 Processor,10999
+273,Infinix Note 10,4,64,256,5000,MediaTek Helio G85 Processor,10999
+274,Infinix Note 10,4,64,256,5000,MediaTek Helio G85 Processor,10999
+275,SAMSUNG Galaxy A12,4,64,1,5000,Mediatek Helio P35 MT6765 Processor,12999
+276,SAMSUNG Galaxy A21s,6,128,512,5000,Exynos 850 Octa Core Processor,17499
+277,ViVO X60,8,128,0,4300,Qualcomm Snapdragon 870 Processor,37990
+278,OPPO A15,3,32,256,4230,MediaTek Helio P35 MT6765 Processor,10280
+279,MOTOROLA G10 Power,4,64,0,6000,Snapdragon 460 Processor,11989
+280,SAMSUNG Galaxy F62,6,128,1,7000,Exynos 9825 Processor,23999
+281,SAMSUNG Galaxy M21,6,128,512,6000, Exynos 9611Octa Core processor Processor,17490
+282,SAMSUNG Galaxy S21 Plus,8,256,0,4800,Exynos 2100 Processor,75999
+283,ViVO Y20i,3,64,256,5000,Qualcomm Snapdragon 460 Processor,11490
+284,Redmi Note 9 Pro,4,64,512,5020,Qualcomm Snapdragon 720G Processor,15495
+285,POCO F1,8,256,256,4000,Qualcomm Snapdragon 845 Processor,19999
+286,SAMSUNG Galaxy A70s,8,128,512,4500,Qualcomm SM6150 Processor,33100
+287,REDMI Note 10S,6,64,0,5000,MediaTek Helio G95 Processor,16299
+288,SAMSUNG Galaxy F41,6,64,512,6000,Exynos 9611 Processor,15999
+289,ViVO X60,8,128,0,4300,Qualcomm Snapdragon 870 Processor,37990
+290,REDMI 9 Prime,4,64,512,5020,MediaTek Helio G80 Processor,10850
+291,SAMSUNG Galaxy F41,6,64,512,6000,Exynos 9611 Processor,15999
+292,ViVO V11,6,64,256,3315,MediaTek P60 Octa Core 20 GHz Processor,24990
+293,OPPO A7,3,64,256,4230,Qualcomm Snapdragon 450 Processor,11999
+294,Redmi K20,6,128,0,4000,Qualcomm Snapdragon 730 Processor,24999
+295,SAMSUNG Galaxy S21 Plus,8,256,0,4800,Exynos 2100 Processor,75999
+296,ViVO V20 Pro,8,128,0,4000,Qualcomm Snapdragon 765G Processor,29990
+297,ViVO V20 Pro,8,128,0,4000,Qualcomm Snapdragon 765G Processor,29990
+298,realme 5 Pro,8,128,256,4035,Qualcomm Snapdragon SDM712 Octa Core 23 GHz Processor,16999
+299,POCO F1,8,256,256,4000,Qualcomm Snapdragon 845 Processor,30999
+300,POCO M3 Pro 5G,6,128,1,5000,MediaTek Dimensity 700 Processor,15499
+301,Nokia 5.3,6,64,0,4000,Qualcomm Snapdragon 665 Processor,12999
+302,realme X,4,128,0,3765,Qualcomm Snapdragon 710 Octa Core 22 GHz AIE Processor,17999
+303,realme X,8,128,0,3765,Qualcomm Snapdragon 710 Octa Core 22 GHz AIE Processor,20999
+304,SAMSUNG Galaxy M21,6,128,512,6000, Exynos 9611Octa Core processor Processor,17490
+305,SAMSUNG Galaxy A21s,6,128,512,5000,Exynos 850 Octa Core Processor,17499
+306,POCO M3 Pro 5G,4,64,1,5000,MediaTek Dimensity 700 Processor,13499
+307,POCO F1,6,64,256,4000,Qualcomm Snapdragon 845 Processor,21999
+308,OPPO A12,4,64,256,4230,MediaTek Helio P35 Processor,11999
+309,REDMI Note 8 Pro,8,128,512,4500,MediaTek Helio G90T Processor,19999
+310,OPPO A52,4,128,256,5000,Qualcomm Snapdragon 665 Processor,15990
+311,REDMI Note 9 Pro Max,6,64,512,5020,Qualcomm Snapdragon 720G Processor,15990
+312,Mi 11X,8,128,0,4520,Qualcomm Snapdragon 870 Processor,32988
+313,SAMSUNG Galaxy Note10 Lite,8,128,1,4500,Exynos 9810 Processor,39999
+314,POCO M3 Pro 5G,6,128,1,5000,MediaTek Dimensity 700 Processor,15499
+315,Nokia 5.3,4,64,0,4000,Qualcomm Snapdragon 665 Processor,11999
+316,OPPO F17 PRO,8,128,256,4015,MediaTek Helio P95 Processor,22999
+317,OPPO F15,8,128,256,4000,MediaTek Helio P70 Processor,18990
+318,REDMI Note 10 Pro Max,8,128,512,5020,Qualcomm Snapdragon 732G Processor,24399
+319,OPPO Reno4 Pro,8,128,256,4000,Qualcomm Snapdragon 720G Octa Core Processor,34990
+320,SAMSUNG Galaxy F41,6,64,512,6000,Exynos 9611 Processor,15999
+321,OPPO F15,8,128,256,4000,MediaTek Helio P70 Processor,18990
+322,SAMSUNG Galaxy M11,3,32,512,5000,Qualcomm Snapdragon SDM450F01 Octa Core Processor,10799
+323,Mi 11X,8,128,0,4520,Qualcomm Snapdragon 870 Processor,32990
+324,REDMI Note 9 Pro Max,6,64,512,5020,Qualcomm Snapdragon 720G Processor,15990
+325,SAMSUNG Galaxy Note10 Lite,8,128,1,4500,Exynos 9810 Processor,39999
+326,POCO M3 Pro 5G,6,128,1,5000,MediaTek Dimensity 700 Processor,15499
+327,Nokia 5.3,4,64,0,4000,Qualcomm Snapdragon 665 Processor,11999
+328,OPPO F17 PRO,8,128,256,4015,MediaTek Helio P95 Processor,22999
+329,OPPO F15,8,128,256,4000,MediaTek Helio P70 Processor,18990
+330,REDMI Note 10 Pro Max,8,128,512,5020,Qualcomm Snapdragon 732G Processor,24399
+331,OPPO Reno4 Pro,8,128,256,4000,Qualcomm Snapdragon 720G Octa Core Processor,34990
+332,SAMSUNG Galaxy F41,6,64,512,6000,Exynos 9611 Processor,15999
+333,OPPO F15,8,128,256,4000,MediaTek Helio P70 Processor,18990
+334,Mi 11X,8,128,0,4520,Qualcomm Snapdragon 870 Processor,34900
+335,Mi 11X,8,128,0,4520,Qualcomm Snapdragon 870 Processor,34999
+336,Mi 11X,6,128,0,4520,Qualcomm Snapdragon 870 Processor,30990
+337,Mi 11X,8,128,0,4520,Qualcomm Snapdragon 870 Processor,32990
+338,Mi 11X,6,128,0,4520,Qualcomm Snapdragon 870 Processor,30899
+339,ViVO V11,6,64,256,3315,MediaTek P60 Octa Core 20 GHz Processor,24990
+340,SAMSUNG Galaxy A21s,4,64,512,5000,Exynos 850 Octa Core Processor,14990
+341,REDMI Note 9,4,128,512,5020,MediaTek Helio G85 Processor,13250
+342,POCO F1,6,128,256,4000,Qualcomm Snapdragon 845 Processor,24999
+343,OPPO Reno4 Pro,8,128,256,4000,Qualcomm Snapdragon 720G Octa Core Processor,34990
+344,ViVO V17,8,128,256,4500,Qualcomm Snapdragon 675AIE Processor,27990
+345,ViVO V20,8,256,1,4000,Qualcomm Snapdragon 720G Processor,26490
+346,Micromax Dual 4,4,64,128,2730,Snapdragon 435 Processor,19999
+347,Mi 10,8,256,0,4780,Qualcomm Snapdragon 865 Processor,54999
+348,Redmi K20 Pro,6,128,0,4000,Qualcomm Snapdragon 855 Processor,28999
+349,SAMSUNG Galaxy A21s,6,64,512,5000,Exynos 850 Octa Core Processor,19999
+350,Nokia 2.4,3,64,512,4500,MediaTek Helio P22 Processor,10399
+351,POCO F1,6,128,256,4000,Qualcomm Snapdragon 845 Processor,24999
+352,REDMI Note 9,6,128,512,5020,MediaTek Helio G85 Processor,15999
+353,SAMSUNG Galaxy M01s,3,32,512,4000,MediaTek  MT6762 octa core Processor,10990
+354,Mi 10T Pro,8,128,0,5000,Qualcomm Snapdragon 865 Processor,36999
+355,LG Wing,8,128,2,4000,Qualcomm Snapdragon 765G Processor,29999
+356,LG Velvet Dual Screen,6,128,2,4300,Qualcomm Snapdragon 845 Processor,55000
+357,Infinix Note 10,6,128,256,5000,MediaTek Helio G85 Processor,11999
+358,SAMSUNG Galaxy A21s,6,64,512,5000,Exynos 850 Octa Core Processor,19999
+359,Nokia 2.4,3,64,512,4500,MediaTek Helio P22 Processor,10399
+360,POCO F1,6,128,256,4000,Qualcomm Snapdragon 845 Processor,24999
+361,REDMI Note 9,6,128,512,5020,MediaTek Helio G85 Processor,15999
+362,SAMSUNG Galaxy M01s,3,32,512,4000,MediaTek  MT6762 octa core Processor,10990
+363,Mi 10T Pro,8,128,0,5000,Qualcomm Snapdragon 865 Processor,36999
+364,REDMI Note 8 Pro,6,64,512,4500,MediaTek Helio G90T Processor,16990
+365,LG Wing,8,128,2,4000,Qualcomm Snapdragon 765G Processor,29999
+366,LG Velvet Dual Screen,6,128,2,4300,Qualcomm Snapdragon 845 Processor,55000
+367,Infinix Note 10,6,128,256,5000,MediaTek Helio G85 Processor,11999
+368,MOTOROLA G10 Power,4,64,0,6000,Snapdragon 460 Processor,11989
+369,Micromax IN Note 1,4,64,256,5000,MediaTek Helio G85 MT6769VCZ Processor,10999
+370,Micromax IN Note 1,4,64,256,5000,MediaTek Helio G85 MT6769VCZ Processor,10999
+371,Micromax IN Note 1,4,128,256,5000,MediaTek Helio G85 MT6769VCZ Processor,11999
+372,OPPO A15,3,32,256,4230,MediaTek Helio P35 MT6765 Processor,10990
+373,GIONEE F103 Pro,3,16,128,2400,MT6735 Processor,10999
+374,Mi 10,8,256,0,4780,Qualcomm Snapdragon 865 Processor,54999
+375,realme X3,8,128,0,4200,Qualcomm Snapdragon 855 Processor,25999
+376,ViVO Y15,4,64,256,5000,MediaTek Helio P22 Processor,15990
+377,ViVO V9 Youth,4,32,256,3260,Qualcomm Snapdragon 450 Processor,19990
+378,MOTOROLA G9 Power,4,64,512,6000,Qualcomm Snapdragon 662 Processor,11999
+379,REDMI Note 9 Pro Max,8,128,512,5020,Qualcomm Snapdragon 720G Processor,22999
+380,realme X3,8,128,0,4200,Qualcomm Snapdragon 855 Processor,25999
+381,SAMSUNG Galaxy M11,4,64,512,5000,Qualcomm Snapdragon SDM450F01 Octa Core Processor,10042
+382,Infinix Note 10 Pro,8,256,256,5000,MediaTek Helio G95 Processor,16999
+383,Infinix Note 10 Pro,8,256,256,5000,MediaTek Helio G95 Processor,16999
+384,SAMSUNG Galaxy F62,6,128,1,7000,Exynos 9825 Processor,23999
+385,ViVO V9,4,64,256,3260,Qualcomm Snapdragon 626 Processor,23990
+386,ViVO V9,4,64,256,3260,Qualcomm Snapdragon 626 Processor,23990
+387,Mi 10i,8,128,0,4820,Qualcomm Snapdragon 750G Processor,25497
+388,Nokia 5.4,6,64,512,4000,Qualcomm Snapdragon 662 Processor,13499
+389,Mi 10T,8,128,0,5000,Qualcomm Snapdragon 865 Processor,34999
+390,Maplin Pro 5G,4,64,128,5000,Snapdragon Processor,12999
+391,SAMSUNG Galaxy S21 Plus,8,128,0,4800,Exynos 2100 Processor,71999
+392,IQOO 3,8,256,0,4440,Qualcomm Snapdragon 865 Processor,27990
+393,REDMI Note 10 Pro Max,8,128,512,5020,Qualcomm Snapdragon 732G Processor,23999
+394,ASUS ROG Phone 3,8,128,0,6000,Qualcomm Snapdragon 865 SM8250 Processor,41999
+395,Mi 10T Pro,8,128,0,5000,Qualcomm Snapdragon 865 Processor,36999
+396,REDMI 9 Prime,4,128,512,5020,MediaTek Helio G80 Processor,11990
+397,SAMSUNG Galaxy A50,6,64,512,4000,Exynos 9610 Processor,24000
+398,SAMSUNG Galaxy S20 FE,8,128,1,4500,Exynos Octa Core Processor,37990
+399,ASUS ROG Phone 3,12,128,0,6000,Qualcomm Snapdragon 865 SM8250 Processor,49999
+400,Nokia 3.4,4,64,512,4000,Qualcomm Snapdragon 460 Processor,10999
+401,Nokia 5.4,6,64,512,4000,Qualcomm Snapdragon 662 Processor,13499
+402,OPPO A5s,4,64,256,4230,MediaTek Helio P35 Processor,11999
+403,Nokia 5.4,4,64,512,4000,Qualcomm Snapdragon 662 Processor,11999
+404,SAMSUNG Galaxy S21 Ultra,12,256,0,5000,Exynos 2100 Processor,105999
+405,SAMSUNG Galaxy M30s,4,64,512,6000,Exynos 9611 Processor,15490
+406,SAMSUNG Galaxy S21 Plus,8,128,0,4800,Exynos 2100 Processor,71999
+407,Tecno POVA,6,128,256,6000,MediaTek Helio G80 Processor,13489
+408,REDMI Note 9 Pro Max,8,128,512,5020,Qualcomm Snapdragon 720G Processor,22995
+409,SAMSUNG Galaxy Note 20 Ultra 5G,12,256,1,4500,Exynos Octa Core Processor,91999
+410,SAMSUNG Galaxy S20 FE,8,128,1,4500,Exynos Octa Core Processor,37990
+411,Redmi Note 7,3,32,256,4000,Qualcomm Snapdragon 660 AIE Processor,10999
+412,Redmi K20 Pro,6,128,0,4000,Qualcomm Snapdragon 855 Processor,27999
+413,GIONEE A1,4,64,256,4010,MediaTek MT6755 Helio P10 Octa Core 20GHz Processor,21499
+414,Mi 10T,6,128,0,5000,Qualcomm Snapdragon 865 Processor,32999
+415,OPPO F17,8,128,0,4015,Qualcomm Snapdragon 662 Processor,18750
+416,Honor 8,4,32,128,3000,ARM Hisilicon Kirin 950  ARM Cortex A72  ARM Cortex A53 Octa Core 23GHz Processor,29999
+417,Nokia 3.4,4,64,512,4000,Qualcomm Snapdragon 460 Processor,12900
+418,Mi 10i,6,128,0,4820,Qualcomm Snapdragon 750G Processor,22899
+419,Redmi Note 7,4,64,256,4000,Qualcomm Snapdragon 660 AIE Processor,12999
+420,Honor 7A,3,32,256,3000,Qualcomm Snapdragon Octa Core Processor,10499
+421,OPPO A7,4,64,256,4230,Qualcomm Snapdragon 450 Processor,18990
+422,Mi 11X Pro 5G,8,128,0,4520,Qualcomm Snapdragon 888 Processor,40988
+423,OPPO F19 Pro+ 5G,8,128,256,4310,MediaTek Dimensity 800U Processor,24990
+424,Mi A2,4,64,0,3010,Qualcomm Snapdragon 660 AIE Processor,12999
+425,OPPO F15,8,128,256,4000,MediaTek Helio P70 Processor,18990
+426,SAMSUNG Galaxy S20 FE,8,128,1,4500,Exynos Octa Core Processor,37990
+427,ViVO V15 Pro,8,128,256,3700,Qualcomm Snapdragon 675AIE Octa Core 20GHz Processor,28499
+428,Nokia 5.1 Plus,3,32,400,3060,MediaTek Helio P60 Processor,13199
+429,Honor 7A,3,32,256,3000,Qualcomm Snapdragon Octa Core Processor,10499
+430,OPPO A7,4,64,256,4230,Qualcomm Snapdragon 450 Processor,18990
+431,Mi 11X Pro 5G,8,128,0,4520,Qualcomm Snapdragon 888 Processor,40988
+432,Mi A2,4,64,0,3010,Qualcomm Snapdragon 660 AIE Processor,12999
+433,OPPO F19 Pro+ 5G,8,128,256,4310,MediaTek Dimensity 800U Processor,24990
+434,OPPO F15,8,128,256,4000,MediaTek Helio P70 Processor,18990
+435,SAMSUNG Galaxy M21,6,128,512,6000, Exynos 9611Octa Core processor Processor,15990
+436,SAMSUNG Galaxy S20 FE,8,128,1,4500,Exynos Octa Core Processor,37990
+437,ViVO V15 Pro,8,128,256,3700,Qualcomm Snapdragon 675AIE Octa Core 20GHz Processor,28499
+438,Nokia 5.1 Plus,3,32,400,3060,MediaTek Helio P60 Processor,13199
+439,SAMSUNG Galaxy A70s,8,128,512,4500,Qualcomm SM6150 Processor,33100
+440,Redmi Note 8,6,128,512,4000,Qualcomm Snapdragon 665 Processor,15890
+441,Redmi K20 Pro,6,128,0,4000,Qualcomm Snapdragon 855 Processor,28999
+442,Nokia 2.4,3,64,512,4500,MediaTek Helio P22 Processor,10399
+443,SAMSUNG Galaxy S21 Plus,8,128,0,4800,Exynos 2100 Processor,71999
+444,ViVO V17,8,128,256,4500,Qualcomm Snapdragon 675AIE Processor,27990
+445,ViVO Y81,3,32,256,3260,MT6762 Octa Core Helio P22 Processor,13990
+446,ViVO Y95,4,64,256,4030,Qualcomm Snapdragon 439 Processor,18990
+447,OPPO F5,6,64,256,3200,Mediatek MT6763T Octa Core 25 GHz Processor,24990
+448,Micromax Dual 4,4,64,128,2730,Snapdragon 435 Processor,19999
+449,Honor 9N,4,128,256,3000,Kirin 659 Octa Core Processor,19999
+450,Honor 9N,4,64,256,3000,Kirin 659 Octa Core Processor,15999
+451,ViVO Y69,3,32,256,3000,Mediatek MT6750 Octa Core 15GHz Processor,14990
+452,Redmi Note 5 Pro,4,64,128,4000,Qualcomm Snapdragon 636 Processor,14999
+453,Redmi Y3,3,32,512,4000,Qualcomm Snapdragon 632 Processor,10490
+454,Redmi Y3,3,32,512,4000,Qualcomm Snapdragon 632 Processor,10190
+455,SAMSUNG Galaxy S10,8,128,512,3400,Exynos 9 9820 Processor,71000
+456,Mi A2,6,128,0,3010,Qualcomm Snapdragon 660 AIE Processor,20500
+457,ViVO X50,8,256,0,4200,Qualcomm Snapdragon 730 Processor,37990
+458,ViVO X50,8,128,0,4200,Qualcomm Snapdragon 730 Processor,34990
+459,ViVO X50,8,256,0,4200,Qualcomm Snapdragon 730 Processor,37990
+460,ViVO X50,8,128,0,4200,Qualcomm Snapdragon 730 Processor,34990
+461,ViVO X50,8,128,0,4200,Qualcomm Snapdragon 730 Processor,34990
+462,ViVO X50,8,256,0,4200,Qualcomm Snapdragon 730 Processor,37990
+463,SAMSUNG Galaxy Note 20,8,256,0,4300,Exynos Octa Core Processor,77999
+464,Honor 8,4,32,128,3000,ARM Hisilicon Kirin 950  ARM Cortex A72  ARM Cortex A53 Octa Core 23GHz Processor,29999
+465,OPPO A7,3,64,256,4230,Qualcomm Snapdragon 450 Processor,13999
+466,Redmi 9,4,64,0,5000,MediaTek Helio G35 Processor,10999
+467,SAMSUNG Galaxy S9 Plus,6,64,400,3500,Exynos 9810 Processor,70000
+468,ViVO Y91i,2,16,256,4030,MTK Helio P22 Processor,10073
+469,SAMSUNG Galaxy S21 Ultra,12,256,0,5000,Exynos 2100 Processor,105999
+470,Redmi Note 7,4,64,256,4000,Qualcomm Snapdragon 660 AIE Processor,12999
+471,Redmi Note 7,4,64,256,4000,Qualcomm Snapdragon 660 AIE Processor,13999
+472,ViVO V11 Pro,6,64,256,3400,20 GHz Qualcomm Snapdragon 660 AIE Processor,28990
+473,Redmi Note 7 Pro,6,128,256,4000,Qualcomm Snapdragon 675 Processor,15990
+474,Mi 11X Pro 5G,8,256,0,4520,Qualcomm Snapdragon 888 Processor,44000
+475,LG Velvet Dual Screen,6,128,2,4300,Qualcomm Snapdragon 845 Processor,55000
+476,SAMSUNG Galaxy S9 Plus,6,64,400,3500,Exynos 9810 Processor,70000
+477,Nokia 5,2,16,128,3000,Qualcomm Snapdragon 430 Processor,11990
+478,GIONEE F103 Pro,3,16,128,2400,Mediatek MT6735 Quad Core 13GHz Processor,10999
+479,OPPO F9,4,64,256,3500,Mediatek Helio P60 Octacore 20 GHz Processor,17890
+480,Maplin Pro 5G,4,64,128,5000,Snapdragon Processor,12998
+481,Mi A3,6,128,256,4030,Qualcomm Snapdragon 665 Processor,17499
+482,ViVO Y11,3,32,0,5000,SDM439 Processor,11999
+483,Redmi Note 5 Pro,4,64,128,4000,Qualcomm Snapdragon 636 Processor,11490
+484,Redmi K20,6,128,0,4000,Qualcomm Snapdragon 730 Processor,24999
+485,Redmi Note 9 Pro,4,128,512,5020,Qualcomm Snapdragon 720G Processor,17999
+486,Redmi Note 5 Pro,6,64,128,4000,Qualcomm Snapdragon 636 Processor,16999
+487,SAMSUNG Galaxy A21s,4,64,512,5000,Exynos 850 Octa Core Processor,17999
+488,ViVO Y30,4,128,256,5000,MediaTek Helio P35 Processor,14970
+489,Nokia 2.4,3,64,512,4500,MediaTek Helio P22 Processor,10399
+490,GIONEE A1,4,64,256,4010,MediaTek MT6755 Helio P10 Octa Core 20GHz Processor,15500
+491,Nokia 5.3,6,64,0,4000,Qualcomm Snapdragon 665 Processor,13299
+492,LG V30+,4,128,2,3300,Qualcomm Snapdragon 835 Processor,60000
+493,LG V30+,4,128,2,3300,Qualcomm Snapdragon 835 Processor,60000
+494,Mi A3,6,128,256,4030,Qualcomm Snapdragon 665 Processor,17440
+495,SAMSUNG Galaxy M30s,4,64,512,6000,Exynos 9611 Processor,14990
+496,SAMSUNG Galaxy M30s,6,128,512,6000,Exynos 9611 Processor,16990
+497,SAMSUNG Galaxy S10,8,512,512,3400,Exynos 9 9820 Processor,92000
+498,SAMSUNG Galaxy Note 20,8,256,0,4300,Exynos Octa Core Processor,77999
+499,Redmi Note 8,4,64,512,4000,Qualcomm Snapdragon 665 Processor,13499
+500,ViVO Y20,4,64,256,5000,Qualcomm Snapdragon 460 Processor,12990
+501,Mi A2,4,64,0,3010,Qualcomm Snapdragon 660 AIE Processor,10999
+502,Redmi Note 8,4,64,512,4000,Qualcomm Snapdragon 665 Processor,13499
+503,Honor 9N,4,128,256,3000,Kirin 659 Octa Core Processor,19999
+504,SAMSUNG Galaxy S9,4,64,400,3000,Exynos 9810 Processor,62500
+505,ViVO Y95,4,64,256,4030,Qualcomm Snapdragon 439 Processor,18990
+506,SAMSUNG Galaxy S9,4,64,400,3000,Exynos 9810 Processor,62500
+507,ViVO Y95,4,64,256,4030,Qualcomm Snapdragon 439 Processor,18990
+508,Tecno Camon 15,4,64,256,5000,Helio P22 MT6762 Processor,11499
+509,Tecno Camon 15,4,64,256,5000,Helio P22 MT6762 Processor,11499
+510,SAMSUNG Galaxy Note 20,8,256,0,4300,Exynos Octa Core Processor,77999
+511,ViVO Y91i,2,32,256,4030,MTK Helio P22 Processor,10097
+512,ViVO Y91i,2,32,256,4030,MTK Helio P22 Processor,10108
+513,Redmi Note 7 Pro,4,64,256,4000,Qualcomm Snapdragon 675 Processor,14999
+514,Mi A2,4,64,0,3010,Qualcomm Snapdragon 660 AIE Processor,13999
+515,ViVO Y20,6,64,256,5000,Qualcomm Snapdragon 460 Processor,16999
+516,ViVO Y20,6,64,256,5000,Qualcomm Snapdragon 460 Processor,16999
+517,ViVO Y20A,3,64,256,5000,Qualcomm Snapdragon 439 Processor,12149
+518,OPPO A5s,4,64,256,4230,MediaTek Helio P35 Processor,12999
+519,OPPO A3s,3,32,256,4230,Qualcomm Snapdragon 450 Processor,12000
+520,Redmi Note 8,6,128,512,4000,Qualcomm Snapdragon 665 Processor,15998
+521,ViVO V20,8,128,1,4000,Qualcomm Snapdragon 720G Processor,24990
+522,ViVO V20 SE,8,128,1,4100,Qualcomm Snapdragon 665 Processor,21000
+523,ViVO V15 Pro,6,128,256,3700,Qualcomm Snapdragon 675AIE Octa Core 20GHz Processor,32990
+524,SAMSUNG Galaxy Note 20 Ultra 5G,12,256,1,4500,Exynos Octa Core Processor,91999
+525,SAMSUNG Galaxy A21s,6,64,512,5000,Exynos 850 Octa Core Processor,19999
+526,ViVO Y17,4,128,256,5000,MTK Helio P35 MT6765 Processor,13900
+527,ViVO Y17,4,128,256,5000,MTK Helio P35 MT6765 Processor,13900
+528,ViVO V15 Pro,6,128,256,3700,Qualcomm Snapdragon 675AIE Octa Core 20GHz Processor,23990
+529,OPPO A7,4,64,256,4230,Qualcomm Snapdragon 450 Processor,18990
+530,OPPO A7,4,64,256,4230,Qualcomm Snapdragon 450 Processor,18814
+531,SAMSUNG Galaxy S21 Ultra,12,256,0,5000,Exynos 2100 Processor,109999
+532,SAMSUNG Galaxy A21s,4,64,512,5000,Exynos 850 Octa Core Processor,17999
+533,ViVO Y81,3,32,256,3260,MT6762 Octa Core Helio P22 Processor,11500
+534,Honor 9N,3,32,256,3000,Kirin 659 Octa Core Processor,12500
+535,OPPO A52,6,128,256,5000,Qualcomm Snapdragon 665 Processor,16990
+536,Honor 9N,3,32,256,3000,Kirin 659 Octa Core Processor,12500
+537,OPPO A52,6,128,256,5000,Qualcomm Snapdragon 665 Processor,16990
+538,OPPO F9 Pro,6,64,256,3500,Mediatek Helio P60 Octacore 20 GHz Processor,19990
+539,OPPO A5,4,32,256,4230,Qualcomm Snapdragon 450 Processor,14990
+540,OPPO A5,4,64,256,4230,Qualcomm Snapdragon 450 Processor,15990
+541,Honor 8,4,32,128,3000,ARM Hisilicon Kirin 950  ARM Cortex A72  ARM Cortex A53 Octa Core 23GHz Processor,30000
+542,POCO F1,8,256,256,4000,Qualcomm Snapdragon 845 Processor,19999
+543,Nokia 5.3,4,64,0,4000,Qualcomm Snapdragon 665 Processor,11999
+544,SAMSUNG Galaxy A20s,4,64,512,4000,Qualcomm SDM450B01 Processor,14900
+545,SAMSUNG Galaxy A20,3,32,512,4000,Exynos 7884B Processor,12900
+546,ViVO Y93,4,32,256,4030,MediaTek Helio P22 Processor,17000
+547,OPPO F5,4,32,256,3200,Mediatek MT6763T Octa Core 25 GHz Processor,15500
+548,SAMSUNG Galaxy A72,8,256,1,5000,Qualcomm Snapdragon 720G Processor,40990
+549,SAMSUNG Galaxy A20s,3,32,512,4000,Qualcomm SDM450B01 Processor,12900
+550,OPPO A3s,3,32,256,4230,Qualcomm Snapdragon 450 Processor,12990
+551,ViVO Y55S,3,16,256,2730,Qualcomm Snapdragon 425 64bit Quad Core 14GHz Processor,13995
+552,SAMSUNG Galaxy J6,4,64,256,3000,Exynos 7870 Processor,14990
+553,OPPO F3,4,64,128,3200,Mediatek MT6750T Processor,18000
+554,SAMSUNG Galaxy A50,6,64,512,4000,Exynos 9610 Processor,24000
+555,SAMSUNG Galaxy J5 Prime,3,32,256,2400,Exynos 7570 Quad Core 14GHz Processor,13500
+556,ViVO Y93,4,32,256,4030,MediaTek Helio P22 Processor,15990
+557,OPPO A3s,3,32,256,4230,Qualcomm Snapdragon 450 Processor,12990
+558,ViVO Y55S,3,16,256,2730,Qualcomm Snapdragon 425 64bit Quad Core 14GHz Processor,13995
+559,SAMSUNG Galaxy J6,4,64,256,3000,Exynos 7870 Processor,14990
+560,OPPO F3,4,64,128,3200,Mediatek MT6750T Processor,18000
+561,SAMSUNG Galaxy A50,6,64,512,4000,Exynos 9610 Processor,24000
+562,SAMSUNG Galaxy J5 Prime,3,32,256,2400,Exynos 7570 Quad Core 14GHz Processor,13500
+563,SAMSUNG Galaxy J7 Nxt,3,32,256,3000,Exynos Octa Core 16 GHz Processor,12000
+564,ViVO Y93,4,32,256,4030,MediaTek Helio P22 Processor,15990
+565,SAMSUNG Galaxy J8,4,64,256,3500,Qualcomm Snapdragon SDM450 Processor,19500
+566,SAMSUNG Galaxy J8,4,64,256,3500,Qualcomm Snapdragon SDM450 Processor,18990
+567,SAMSUNG Galaxy A30,4,64,512,4000,Exynos 7904 Processor,18000
+568,SAMSUNG Galaxy A50,6,64,512,4000,Exynos 9610 Processor,24000
+569,ViVO Y69,3,32,256,3000,Mediatek MT6750 Octa Core 15GHz Processor,13900
+570,ViVO Y71,4,32,256,3360,Qualcomm Snapdragon 425 Processor,12000
+571,ViVO Y71,3,16,256,3360,Qualcomm Snapdragon 425 Processor,10900
+572,ViVO Y83 Pro,4,64,256,3260,Mediatek Helio P22 Processor,14500
+573,ViVO Y83 Pro,4,64,256,3260,Mediatek Helio P22 Processor,14500
+574,OPPO A5,4,32,256,4230,Qualcomm Snapdragon 450 Processor,13500
+575,SAMSUNG Galaxy A20,3,32,512,4000,Exynos 7884B Processor,13099
+576,OPPO A71,3,16,256,3000,Mediatek MT6750 Octa Core 15 GHz Processor,12500
+577,OPPO F9,4,64,256,3500,Mediatek Helio P60 Octacore 20 GHz Processor,21362
+578,SAMSUNG Galaxy J6 Plus,4,64,512,3300,Qualcomm Snapdragon SD425 Processor,13600
+579,Panasonic Eluga Ray 700,3,32,128,5000,Mediatek MTK6753 Octa Core 13GHz Processor,16000
+580,ViVO V11 Pro,6,64,256,3400,20 GHz Qualcomm Snapdragon 660 AIE Processor,22654
+581,OPPO A3s,2,16,256,4230,Qualcomm Snapdragon 450 Processor,11500
+582,OPPO A3s,2,16,256,4230,Qualcomm Snapdragon 450 Processor,11500
+583,SAMSUNG Galaxy J6,4,64,256,3000,Exynos 7870 Processor,14990
+584,SAMSUNG Galaxy J7 - 6,2,16,128,3300,Exynos 7870 Octa Core 16GHz Processor,15299
+585,Tecno Camon i 2,3,32,128,3750,MT6761 Processor,11999
+586,SAMSUNG Galaxy A20,3,32,512,4000,Exynos 7884B Processor,12900
+587,Honor 7X,4,64,0,3340,Kirin 659 Processor,15500
+588,OPPO F9,4,64,256,3500,Mediatek Helio P60 Octacore 20 GHz Processor,21362
+589,SAMSUNG Galaxy J6 Plus,4,64,512,3300,Qualcomm Snapdragon SD425 Processor,13600
+590,Panasonic Eluga Ray 700,3,32,128,5000,Mediatek MTK6753 Octa Core 13GHz Processor,16000
+591,ViVO V11 Pro,6,64,256,3400,20 GHz Qualcomm Snapdragon 660 AIE Processor,22654
+592,OPPO A3s,2,16,256,4230,Qualcomm Snapdragon 450 Processor,11500
+593,OPPO A3s,2,16,256,4230,Qualcomm Snapdragon 450 Processor,11500
+594,SAMSUNG Galaxy J6,4,64,256,3000,Exynos 7870 Processor,14990
+595,SAMSUNG Galaxy J7 - 6,2,16,128,3300,Exynos 7870 Octa Core 16GHz Processor,15299
+596,Tecno Camon i 2,3,32,128,3750,MT6761 Processor,11999
+597,SAMSUNG Galaxy A20,3,32,512,4000,Exynos 7884B Processor,12900
+598,Honor 7X,4,64,0,3340,Kirin 659 Processor,15500
+599,SAMSUNG Galaxy J6,3,32,256,3000,Exynos 7870 Processor,12990
+600,Nokia 6.1,4,64,128,3000,Qualcomm Snapdragon 630 Processor,18300
+601,OPPO F9 Pro,6,64,256,3500,Mediatek Helio P60 Octacore 20 GHz Processor,21150
+602,SAMSUNG Galaxy J6,4,64,256,3000,Exynos 7870 Processor,14990
+603,ViVO Y91,2,32,256,4030,Helio P22 MTK6762R Processor,11990
+604,ViVO Y91,2,32,256,4030,Helio P22 MTK6762R Processor,11990
+605,SAMSUNG Galaxy J4,2,16,256,3000,Exynos 7570 Processor,10903
+606,Nokia 6.1,3,32,128,3000,Qualcomm Snapdragon 630 Processor,14927
+607,OPPO A83,4,64,0,3180,MT6763T Processor,15000
+608,ViVO Y91,3,32,256,4030,Qualcomm Snapdragon 439 Processor,10500
+609,SAMSUNG Galaxy J5 Prime,2,16,256,2400,Exynos 7570 Quad Core 14GHz Processor,14500
+610,Nokia 5,3,16,128,3000,Qualcomm Snapdragon 430 64bit Octa Core 14 GHz Processor,12499
+611,SAMSUNG Galaxy A30,4,64,512,4000,Exynos 7904 Processor,18000
+612,SAMSUNG Galaxy J6,3,32,256,3000,Exynos 7870 Processor,12990
+613,SAMSUNG Galaxy J4,2,16,256,3000,Exynos 7570 Processor,10903
+614,ViVO Y91,3,32,256,4030,Qualcomm Snapdragon 439 Processor,11184
+615,ViVO Y12,3,64,256,5000,MediaTek Helio P22 Processor,10990
+616,SAMSUNG Galaxy J4,3,32,256,3000,Exynos 7570 Processor,10990
+617,SAMSUNG Galaxy J5 Prime,2,16,256,2400,Exynos 7570 Quad Core 14GHz Processor,14500
+618,SAMSUNG Galaxy J6,3,32,256,3000,Exynos 7870 Processor,12990
+619,SAMSUNG Galaxy J7 Duo,4,32,256,3000,Exynos 7884 Processor,17889
+620,SAMSUNG Galaxy J4,3,32,256,3000,Exynos 7570 Processor,10990
+621,SAMSUNG Galaxy A20,3,32,512,4000,Exynos 7884B Processor,11490
+622,SAMSUNG Galaxy J7 Nxt,3,32,256,3000,Exynos Octa Core 16 GHz Processor,14995
+623,ViVO V9 Youth,4,32,256,3260,Qualcomm Snapdragon 450 Processor,17999
+624,SAMSUNG Galaxy J7 Nxt,2,16,256,3000,Exynos OctaCore 16GHz Processor,11995
+625,OPPO A83,4,64,0,3180,MT6763T Processor,19000
+626,OPPO A83,4,64,0,3180,MT6763T Processor,13990
+627,SAMSUNG Galaxy J7 Duo,4,32,256,3000,Exynos 7884 Processor,17962
+628,OPPO A37f,2,16,128,2630,Qualcomm Snapdragon 410 Quad Core 12GHz Processor,10000
+629,Tecno Camon 15 Pro,6,128,256,4000,Helio P35 MT6765 Processor,15999
+630,Tecno Camon 15 Pro,6,128,256,4000,Helio P35 MT6765 Processor,16990
+631,OPPO F3,4,64,128,3200,Mediatek MT6750T Octa Core 15GHz Processor,18000
+632,OPPO F3,4,64,128,3200,Mediatek MT6750T Octa Core 15GHz Processor,23500
+633,ViVO Y15,4,64,256,5000,MediaTek Helio P22 Processor,12900
+634,OPPO F9 Pro,6,64,256,3500,Mediatek Helio P60 Octacore 20 GHz Processor,21150
+635,Tecno Spark Power,4,64,256,6000,Mediatek Helio Processor,10000
+636,SAMSUNG Galaxy J2 Pro,2,16,0,2600,Spreadtrum QuadCore 15GHz Processor,10480
+637,Tecno Spark Power,4,64,256,6000,Mediatek Helio Processor,11999
+638,OPPO A3s,4,64,256,4230,Qualcomm Snapdragon 450 Processor,15000
+639,SAMSUNG Galaxy J2 Pro,2,16,128,2600,Spreadtrum QuadCore 15GHz Processor,10480
+640,ViVO Y71,4,32,256,3360,Qualcomm Snapdragon 425 Processor,12000
+641,ViVO Y71,3,16,256,3360,Qualcomm Snapdragon 425 Processor,10900
+642,ViVO Y12,4,32,256,5000,MediaTek Helio P22 Processor,14990
+643,ViVO Y12,4,32,256,5000,MediaTek Helio P22 Processor,14990
+644,ViVO Y12,3,64,256,5000,MediaTek Helio P22 Processor,13863
+645,OPPO A83,2,16,256,3180,MT6763T Processor,11000
+646,SAMSUNG Galaxy J8,4,64,256,3500,Qualcomm Snapdragon SDM450 Processor,19500
+647,ViVO Y83 Pro,4,64,256,3260,Mediatek Helio P22 Processor,14500
+648,OPPO A71,3,16,256,3000,Mediatek MT6750 Octa Core 15 GHz Processor,12500
+649,SAMSUNG Galaxy A72,8,256,1,5000,Qualcomm Snapdragon 720G Processor,37990
+650,SAMSUNG Galaxy A30,4,64,512,4000,Exynos 7904 Processor,18000
+651,OPPO A37f,2,16,128,2630,Qualcomm Snapdragon 410 Quad Core 12GHz Processor,12000
+652,SAMSUNG Galaxy J7 - 6,2,16,128,3300,Exynos 7870 Octa Core 16GHz Processor,13800
+653,ViVO Y53,2,16,256,2500,Qualcomm Snapdragon 425 64bit Quad Core 14GHz Processor,11190
+654,ViVO Y53,2,16,256,2500,Qualcomm Snapdragon 425 64bit Quad Core 14GHz Processor,10995
+655,SAMSUNG Galaxy J7 Nxt,2,16,256,3000,Exynos OctaCore 16 GHz Processor,10995
+656,SAMSUNG Galaxy J6 Plus,4,64,512,3300,Qualcomm Snapdragon SD425 Processor,13600
+657,SAMSUNG Galaxy J6 Plus,4,64,512,3300,Qualcomm Snapdragon SD425 Processor,14000
+658,SAMSUNG Galaxy A72,8,128,1,5000,Qualcomm Snapdragon 720G Processor,36990
+659,Infinix Hot 10,6,128,256,5200,MediaTek Helio G70 Processor,10999
+660,Infinix Hot 10,6,128,256,5200,MediaTek Helio G70 Processor,10999
+661,OPPO A12,4,64,256,4230,MediaTek Helio P35 Processor,10440
+662,Infinix Hot 10,6,128,256,5200,MediaTek Helio G70 Processor,10999
+663,realme Narzo 20,4,128,256,6000,MediaTek Helio G85 Processor,10999
+664,realme Narzo 20,4,128,256,6000,MediaTek Helio G85 Processor,10999
+665,OPPO A12,4,64,256,4230,MediaTek Helio P35 Processor,11900
+666,OPPO A53,6,128,256,5000,Qualcomm Snapdragon 460 Processor,12990
+667,realme 7i,4,64,256,5000,Qualcomm Snapdragon 662 Processor,11999
+668,POCO M2,6,128,512,5000,MediaTek Helio G80 Processor,11499
+669,Infinix Hot 10S,6,64,256,6000,MediaTek Helio G85 Processor,10999
+670,realme 7i,4,64,256,5000,Qualcomm Snapdragon 662 Processor,11999
+671,realme 7i,4,128,256,5000,Qualcomm Snapdragon 662 Processor,14999
+672,REDMI Note 9,4,64,512,5020,MediaTek Helio G85 Processor,11900
+673,realme 7 Pro,6,128,256,4500,Qualcomm Snapdragon 720G Processor,15999
+674,POCO M2,6,64,512,5000,MediaTek Helio G80 Processor,10499
+675,POCO M2,6,128,512,5000,MediaTek Helio G80 Processor,11499
+676,REDMI Note 9,4,128,512,5020,MediaTek Helio G85 Processor,13380
+677,REDMI 9i,4,128,512,5000,MediaTek Helio G25 Processor,10990
+678,realme 7,6,64,256,5000,MediaTek Helio G95 Processor,14999
+679,SAMSUNG Galaxy F12,4,64,512,6000,Exynos 850 Processor,12999
+680,OPPO A31,6,128,256,4230,MediaTek Helio P35 Octa Core Processor,11990
+681,POCO M2,6,128,512,5000,MediaTek Helio G80 Processor,11499
+682,OPPO A53,4,64,256,5000,Qualcomm Snapdragon 460 Processor,15990
+683,realme 3i,4,64,256,4230,MediaTek Helio P60 Octa Core 20 GHz Processor,10499
+684,POCO M2 Pro,4,64,512,5000,Qualcomm Snapdragon 720G Processor,12999
+685,ViVO Z1Pro,4,64,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,14990
+686,ViVO V21 5G,8,256,0,4000,MediaTek Dimensity 800U Processor,32990
+687,REDMI Note 9,6,128,512,5020,MediaTek Helio G85 Processor,13999
+688,POCO M2,6,128,512,5000,MediaTek Helio G80 Processor,11499
+689,OPPO A53,4,64,256,5000,Qualcomm Snapdragon 460 Processor,15990
+690,realme 3i,4,64,256,4230,MediaTek Helio P60 Octa Core 20 GHz Processor,10499
+691,POCO M2 Pro,4,64,512,5000,Qualcomm Snapdragon 720G Processor,12999
+692,ViVO V21 5G,8,256,0,4000,MediaTek Dimensity 800U Processor,32990
+693,ViVO Z1Pro,4,64,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,14990
+694,realme Narzo 20 Pro,8,128,256,4500,MediaTek Helio G95 Processor,16999
+695,ViVO V21 5G,8,256,0,4000,MediaTek Dimensity 800U Processor,32990
+696,ASUS ROG Phone 5,12,256,0,6000,Qualcomm Snapdragon 888 SM8350 Processor,57999
+697,POCO M2 Pro,4,64,512,5000,Qualcomm Snapdragon 720G Processor,12999
+698,ViVO Z1Pro,6,64,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,15990
+699,ViVO Z1Pro,4,64,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,14990
+700,ViVO Z1Pro,6,64,256,5000,Qualcomm Snapdragon 712 AIE Octa Core 23GHz Processor,15990
+701,realme 7,8,128,256,5000,MediaTek Helio G95 Processor,17999
+702,SAMSUNG Galaxy F02s,4,64,1,5000,Qualcomm Snapdragon 450 SDM450F01 Processor,11499
+703,SAMSUNG Galaxy M02,3,32,0,5000,MediaTek MT6739 Processor,11999
+704,SAMSUNG Galaxy M02,3,32,0,5000,MediaTek MT6739 Processor,11999
+705,ViVO Y11,3,32,0,5000,SDM439 Processor,10929
+706,REDMI 9 Prime,4,128,512,5020,MediaTek Helio G80 Processor,10999
+707,SAMSUNG Galaxy M02,3,32,0,5000,MediaTek MT6739 Processor,11999
+708,Redmi Note 9 Pro,4,128,512,5020,Qualcomm Snapdragon 720G Processor,13999
+709,IQOO 3,8,256,0,4440,Qualcomm Snapdragon 865 Processor,27990
